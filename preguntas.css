@@ -1,0 +1,16 @@
+.div_palabra{
+   display: fleX;
+   align-items: center;
+  
+}
+
+.input_letra{
+     width: 1ch;
+     height: 1ch;
+     border: none;
+     border-bottom: 1px solid red; 
+}
+
+.input_letra:focus{
+     outline: none;
+}
